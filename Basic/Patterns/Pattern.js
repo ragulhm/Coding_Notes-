@@ -10,16 +10,35 @@
 
 //console.log(pattern);
 
-let n = 6;
+// let n = 6;
 
-let pattern ="";
+// let pattern ="";
 
-for(let i= 1;i<n; i++){
-    for(let j =1; j<=i; j++){
-        pattern += i;
+// for(let i= 1;i<n; i++){
+//     for(let j =1; j<=i; j++){
+//         pattern += i;
 
-    }
-    pattern +="\n";
-}
+//     }
+//     pattern +="\n";
+// }
 
-console.log(pattern);
+// console.log(pattern);
+
+// let n =5 ;
+
+// let pattern = "";
+
+// for (let i= 1 ; i<=n; i++){
+//     for(let j = 0; j<=n-i; j++){
+//         pattern += "* "
+//     }
+//     pattern += "\n";
+// }
+
+// console.log(pattern);
+// * * * * * 
+// * * * *
+// * * *
+// * *
+// *
+
